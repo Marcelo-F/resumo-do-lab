@@ -35,4 +35,36 @@ Gerenciabilidade - Criação de recusros na azure atraves de varias ferramentas.
 
 
 
+Aula 3 - Tipos de serviços na nuvem 
+
+Iaas - Infra estrutura para serviço é maior gerenciamento e gestão do contratante e menos do provedor(azure)
+Mais trabalhoso  para quem contrata os serviços na nuvem. 
+útil para lidar com demandas impreviísveis e necessidades armazenamento constante.
+
+Forma de pagamento é de assinatura, paga o que foi contratado.
+
+Paas -
+A nível de desenvolvimento, o dev pode compilar para desenvolver ou personalizar aplicativos que estejam em nuvem.  
+
+A nível de negócio aprimoramento nas previsões de resultas através de padrões que auxiliam na decisão de negócio.
+
+
+Acesso ao ambiente de desenvolvimento de qual quer lugar do mundo, basta ter internet
+Forma de pagamento é pagar conforme o uso.
+
+Saas - É o inverso iaas, o contratante tem menos trabalho com a gestão que passa a ser do provedor inclusive da segurança.  
+
+Forma de pagamento paga pelo uso através de assinatura que estará relacionado ao nível de uso.
+
+O Saas é basiado em escala verticalmente e horizontalmente de acordo com o nível de uso. 
+
+Esse é o nĩ́vel mais alto entre esses três mencionados.
+
+
+
+Modelo de responsabilidade compartilhada
+
+
+
+
 
