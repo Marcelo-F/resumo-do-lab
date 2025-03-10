@@ -67,4 +67,50 @@ Modelo de responsabilidade compartilhada
 
 
 
+Identidade acesso e segurança 
+
+Microsoft entra Id - Gerenciamento de id e acesso
+
+valida por exemplo a autenticação de email e senha 
+
+
+Id do Microsoft Entra 
+
+Garantir a autenticação
+Logon único (SSO) - após login realizado o usuário não precisa passar mas os dados novamente para acessar outras abas de autetnicação
+
+
+Microsoft Entra domain Service ->
+
+tudo que é feito no onPrimes é sicronizado com a nuvem, porém se um usuario for criado na nuvem ele não será sicronizado com a  empresa.
+
+A unica informação que será sicronizado da nuvem será a senha. 
+
+
+
+
+Aula autenticação e autorização 
+
+Autenticação - identifica a pessoa 
+Autorização  - Autoriza a pessoa conforme o nível de acesso dela.
+
+
+Autenticação B2B ->
+Entidades externas, usuario fica salvo  em um diretório diferenciado, por exemplo convidado. 
+
+B2c - Por exemplo logar no linkedin com a conta do facebook
+
+
+ACESSO CONDICIONAL 
+Monitoramento para verificar se o login é comum ou se esta acessando de lugares diferentes
+
+Confiança zero -> Sempre prevendo po pior cenário  para aplicar o máximo de proteção.
+
+Usuario ter só os acessos necessarios.
+
+Desconfiar de tudo e não confiar em ninguém. 
+
+
+
+
 
